@@ -79,15 +79,16 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Boycott
+                </div>
+
+                <div>
+                    <p>대한민국의 소비권은 국민에게 있고, 모든 매출은 국민으로부터 나온다.</p>
+                    <p>Boycott은 불매하는 기업/제품을 선언하고, 공유하는 웹 애플리케이션 입니다.</p>
                 </div>
 
                 <div class="links">
-                    <a href="https://laravel.com/docs">Documentation</a>
-                    <a href="https://laracasts.com">Laracasts</a>
-                    <a href="https://laravel-news.com">News</a>
-                    <a href="https://forge.laravel.com">Forge</a>
-                    <a href="https://github.com/laravel/laravel">GitHub</a>
+                    <a href="https://github.com/hongdae-laravel/boycott">GitHub</a>
                 </div>
             </div>
         </div>
